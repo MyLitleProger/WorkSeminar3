@@ -54,3 +54,5 @@
 **clear**
 >clear
 >>очищает терминал.
+
+**Более подробно о командах Git можно узнать [тут](https://github.com/cyberspacedk/Git-commands).**
