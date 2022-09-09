@@ -120,7 +120,7 @@
 ![Commit GitKraken](https://sun9-north.userapi.com/sun9-78/s/v1/ig2/Hwh43co8tWEaaad-RtYou4Jp1zVLU0bFvCDGhAPnYP7Kac_IoWVtP4ptq0L2_OogkEdsfpnl2lRDtp3qD0slnWW6.jpg?size=357x527&quality=96&type=album)
 Наимаем на Commit changes to 1 file и получаем результат:
 ![tree commit](https://sun1.userapi.com/sun1-18/s/v1/ig2/hwDkleCfnaOfrbZCHL-CByW_nLQb72gbdDOx0vU-RqIzrmjZlSYdUa1GYdx30IiGVA88kHjcN43xcmw0ASZ4x5uw.jpg?size=499x152&quality=96&type=album)
-
+Программа хорошая, но пробный период составляет 21 день, а покупать её нет острой необходимости.
 
 
 
