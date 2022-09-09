@@ -118,6 +118,15 @@
 
 ## Работа в GitKraken
 
+Управление репозиторием возмоно из сторонних программ, например как **GitKraken**. Данная программа позволяет отображать древо сохранений, в котором можно переходить из сохранения в сохранение быстрым нажатием, что очень удобно. Обладает встроенным терминалом с синтаксическими подсказками. Также есть встроенный редактор.
+![Интерфейс GitKraken](https://sun1.userapi.com/sun1-90/s/v1/ig2/l-uHhYc-X7Lr3k7Fix1ws-Br2ivOwUgubt5Pd716R-cwCXVB6jB1tpcyJn0gVxBrLWZsYLWIqDcBml9WzA5WKsv_.jpg?size=461x808&quality=96&type=album)
+
+В ГитКракен моно делать коммиты при помощи интерфейса без использования командной строки.
+![Commit GitKraken](https://sun9-north.userapi.com/sun9-78/s/v1/ig2/Hwh43co8tWEaaad-RtYou4Jp1zVLU0bFvCDGhAPnYP7Kac_IoWVtP4ptq0L2_OogkEdsfpnl2lRDtp3qD0slnWW6.jpg?size=357x527&quality=96&type=album)
+Наимаем на Commit changes to 1 file и получаем результат:
+![tree commit](https://sun1.userapi.com/sun1-18/s/v1/ig2/hwDkleCfnaOfrbZCHL-CByW_nLQb72gbdDOx0vU-RqIzrmjZlSYdUa1GYdx30IiGVA88kHjcN43xcmw0ASZ4x5uw.jpg?size=499x152&quality=96&type=album)
+Программа хорошая, но пробный период составляет 21 день, а покупать её нет острой необходимости.
+
 
 
 
