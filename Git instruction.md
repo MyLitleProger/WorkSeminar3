@@ -49,6 +49,11 @@
 Попытка создать конфликт
 
 для начала напишем текст в ветке мастер.
+Затем в ветке GiCommand на месте ,где уже написан текст в ветке мастер, напишем еще немного текста.
+
+всё получилось, были сохранены обе версии
+
+![coflict](https://sun9-west.userapi.com/sun9-66/s/v1/ig2/Tvn28_VXfpjpTztUeyX-lAgW88Zadg2r8rkVn1Uivhkx9Oo9bKsyMuseHafcRFnW-hiGuyjvstkjLNiM9wdxAoZR.jpg?size=740x265&quality=96&type=album)
 
 >git commit -am ''
 >>Сохраняет файл как при соманде *git add* делая сразу коммит
